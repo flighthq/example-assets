@@ -1,5 +1,5 @@
 {
-  "version": "v1",
+  "version": "v2",
   "assets": {
     "fonts": {
       "FreebooterUpdated.woff": {
@@ -66,6 +66,10 @@
       },
       "piratepig_logo.png": {
         "description": "Logo for Pirate Pig",
+        "type": "image/png"
+      },
+      "tileset.png": {
+        "description": "Example sprite tileset",
         "type": "image/png"
       },
       "wabbit_alpha.png": {
