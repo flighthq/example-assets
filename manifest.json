@@ -20,6 +20,14 @@
       }
     },
     "images": {
+      "nyancat.gif": {
+        "description": "Nyan Cat (animated GIF)",
+        "type": "image/gif"
+      },
+      "nyancat.png": {
+        "description": "Nyan Cat (spritesheet)",
+        "type": "image/png"
+      },
       "piratepig_background_tile.png": {
         "description": "Repeating background texture for Pirate Pig",
         "type": "image/png"

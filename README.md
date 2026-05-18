@@ -1,1 +1,1 @@
-# flight-example-assets
+# example-assets
