@@ -17,9 +17,29 @@
       "FreebooterUpdated.svg": {
         "description": "SVG font",
         "type": "image/svg+xml"
+      },
+      "KatamotzIkasi.woff": {
+        "description": "Katamotz Ikasi font (woff format)",
+        "type": "font/woff"
+      },
+      "KatamotzIkasi.ttf": {
+        "description": "Katamotz Ikasi font (ttf format)",
+        "type": "font/ttf"
+      },
+      "KatamotzIkasi.eot": {
+        "description": "Katamotz Ikasi font (eot format)",
+        "type": "font/eot"
+      },
+      "KatamotzIkasi.svg": {
+        "description": "Katamotz Ikasi font (svg format)",
+        "type": "image/svg+xml"
       }
     },
     "images": {
+      "checkers.png": {
+        "description": "Black and white alternating checkerboard texture",
+        "type": "image/png"
+      },
       "nyancat.gif": {
         "description": "Nyan Cat (animated GIF)",
         "type": "image/gif"
@@ -133,6 +153,28 @@
       "piratepig_theme.wav": {
         "description": "Theme WAV for Pirate Pig",
         "type": "audio/mpeg"
+      },
+      "stars.mp3": {
+        "description": "Stars background audio (MP3)",
+        "type": "audio/mpeg"
+      },
+      "stars.ogg": {
+        "description": "Stars background audio (OGG)",
+        "type": "audio/ogg"
+      }
+    },
+    "videos": {
+      "example.mp4": {
+        "description": "Short example video (MP4)",
+        "type": "video/mp4"
+      },
+      "example.ogv": {
+        "description": "Short example video (OGV)",
+        "type": "video/ogg"
+      },
+      "example.webm": {
+        "description": "Short example video (WebM)",
+        "type": "video/webm"
       }
     }
   }
